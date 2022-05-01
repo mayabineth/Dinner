@@ -126,9 +126,6 @@ p {
   h4 {
     line-height: 1;
   }
-  .submit-btn{
-      font-size: 0.85rem;
-  }
 }
 
 /* section */
@@ -234,7 +231,7 @@ Guest List
   border-bottom-right-radius: var(--radius);
   cursor: pointer;
   transition: var(--transition);
-  font-size: 0.5rem;
+  font-size: 0.85rem;
   max-height: 2rem;
   margin-top: 1.5rem;
 }
